@@ -1,3 +1,4 @@
+from collections import defaultdict
 # Hashmap used to solve problem
 class Solution:
     def findCommonResponse(self, responses: List[List[str]]) -> str:
