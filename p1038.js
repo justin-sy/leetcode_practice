@@ -1,4 +1,4 @@
-// DFS to solve problem 1038 in Javascript
+// DFS used to solve problem 1038 in Javascript
 /**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
